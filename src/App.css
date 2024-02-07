@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  height: 60px;
+  margin: 20px;
+}
+
+.btn{
+  text-decoration: none;
+  color: black;
+  width: fit-content;
+  background-color: aquamarine;
+  height: fit-content;
+  text-align: center;
+  font-size: 18px;
+  padding: 18px;
+  border-radius: 34px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  border: none;
+  margin-top: 12px;
+
+
+}
+div{
+  margin-bottom: 12px;
+}
